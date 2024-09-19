@@ -6,7 +6,7 @@ For a weekly bootcamp assignment, we had to build the back end for an e-commerce
 
 ## Video Demos
 
-## GET Routes
+## Routes
 
 These can also be found in this Google drive folder: https://drive.google.com/drive/folders/1_D_NJYCXGE-VxDcbueXr76mSAZVwtHpu?usp=sharing
 
